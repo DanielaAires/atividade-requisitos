@@ -40,4 +40,4 @@ As sugestões fornecidas pela IA foram analisadas e adaptadas de acordo com o co
 
 ## Autora
 
-Daniela Aires
+Daniela Santos
